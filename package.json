@@ -1,0 +1,38 @@
+{
+  "name": "front_end-template",
+  "version": "2.5.0",
+  "description": "CSS Template for new project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanKhartov/front-end_template-smacss"
+  },
+  "author": "IvanKhartov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanKhartov/front-end_template-smacss/issues"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-cssnano": "^2.1.0",
+    "grunt-postcss": "^0.8.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-pug": "^3.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.1.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.10",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1"
+  }
+}
